@@ -6,7 +6,7 @@
 ██║     ███████╗██║         ╚██████╗██║  ██║██║  ██║   ██║
 ╚═╝     ╚══════╝╚═╝          ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝
 ```
-
+By Muhammad Balal Ansar (Cyber Security Expert)
 [![Cybersecurity Projects](https://img.shields.io/badge/Cybersecurity--Projects-Project%20%233-red?style=flat&logo=github)](https://github.com/CarterPerez-dev/Cybersecurity-Projects/tree/main/PROJECTS/advanced/encrypted-p2p-chat)
 [![Python](https://img.shields.io/badge/Python-3.13+-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org)
 [![SolidJS](https://img.shields.io/badge/SolidJS-1.9-4F88C6?style=flat&logo=solid&logoColor=white)](https://www.solidjs.com)
