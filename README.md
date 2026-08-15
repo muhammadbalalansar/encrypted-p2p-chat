@@ -14,6 +14,7 @@ By Muhammad Balal Ansar (Cyber Security Expert)
 [![Docker](https://img.shields.io/badge/Docker-ready-2496ED?style=flat&logo=docker)](https://www.docker.com)
 [![Signal Protocol](https://img.shields.io/badge/Signal_Protocol-E2EE-3A76F0?style=flat)](https://signal.org/docs/)
 
+
 > End-to-end encrypted peer-to-peer chat with Signal Protocol (Double Ratchet + X3DH) and WebAuthn/Passkey authentication.
 
 *This is a quick overview — security theory, architecture, and full walkthroughs are in the [learn modules](#learn).*
