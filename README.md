@@ -17,6 +17,7 @@ By Muhammad Balal Ansar (Cyber Security Expert)
 
 > End-to-end encrypted peer-to-peer chat with Signal Protocol (Double Ratchet + X3DH) and WebAuthn/Passkey authentication.
 
+
 *This is a quick overview — security theory, architecture, and full walkthroughs are in the [learn modules](#learn).*
 
 ## What It Does
