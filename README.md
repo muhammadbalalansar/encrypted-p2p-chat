@@ -50,6 +50,7 @@ Visit `http://localhost:8080` to open the application.
 
 This project includes step-by-step learning materials covering security theory, architecture, and implementation.
 
+
 | Module | Topic |
 |--------|-------|
 | [00 - Overview](learn/00-OVERVIEW.md) | Prerequisites and quick start |
