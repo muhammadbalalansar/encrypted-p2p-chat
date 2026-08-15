@@ -35,6 +35,7 @@ docker compose up -d
 
 Visit `http://localhost:8080` to open the application.
 
+
 > [!TIP]
 > This project uses [`just`](https://github.com/casey/just) as a command runner. Type `just` to see all available commands.
 >
